@@ -5,17 +5,3 @@
 <h3>Programming Languages : Java, MYSQL</h3>
 <h3>IDE - Apache Net Beans</h3>
 <h3>Data Base : MYSQL</h3>
-
-# Result Screens
-<img src="D:\SHIVA KRISHNA\Videos\Screenshots\Screenshot 2023-11-12 000126.png">
-<img src="D:\SHIVA KRISHNA\Videos\Screenshots\Screenshot 2023-11-12 000241.png">
-<img src="D:\SHIVA KRISHNA\Videos\Screenshots\Screenshot 2023-11-12 000646.png">
-<img src = "D:\SHIVA KRISHNA\Videos\Screenshots\Screenshot 2023-11-12 000903.png">
-<img src = "D:\SHIVA KRISHNA\Videos\Screenshots\Screenshot 2023-11-12 001010.png">
-<img src = "D:\SHIVA KRISHNA\Videos\Screenshots\Screenshot 2023-11-12 001146.png">
-<img src = "D:\SHIVA KRISHNA\Videos\Screenshots\Screenshot 2023-11-12 001303.png">
-<img src = "D:\SHIVA KRISHNA\Videos\Screenshots\Screenshot 2023-11-12 001450.png">
-<img src = "D:\SHIVA KRISHNA\Videos\Screenshots\Screenshot 2023-11-12 001600.png">
-<img src = "D:\SHIVA KRISHNA\Videos\Screenshots\Screenshot 2023-11-12 001852.png">
-<img src = "D:\SHIVA KRISHNA\Videos\Screenshots\Screenshot 2023-11-12 002105.png">
-<img src = "D:\SHIVA KRISHNA\Videos\Screenshots\Screenshot 2023-11-12 002214.png">
