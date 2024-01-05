@@ -17,7 +17,7 @@ public class ConnectionProvider {
     {
         try{
                 Class.forName("com.mysql.cj.jdbc.Driver");
-            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/bloodbanksystem","root","shiva@05082003");
+            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/bloodbanksystem","root","********");
             return con;
         }
         catch (SQLException e) {
